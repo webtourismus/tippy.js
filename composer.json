@@ -1,0 +1,7 @@
+{
+    "name": "webtourismus/tippyjs",
+    "description": "Mirror of https://www.npmjs.com/package/tippy.js as drupal-library",
+    "license": "MIT",
+    "type": "drupal-library",
+    "homepage": "https://atomiks.github.io/tippyjs/"
+}
